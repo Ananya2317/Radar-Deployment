@@ -60,7 +60,11 @@ Output
 
 
 plots/radar_coverage_map_<timestamp>.png — hillshaded coverage map
+
 plots/convergence_<timestamp>.png — DGO fitness curves (coarse + fine)
+
 checkpoints/best_positions_fine_flat.npy — optimal radar positions
+
 checkpoints/hist_coarse.npy / hist_fine.npy — convergence histories
+
 results/radar_optimization_results_<timestamp>.txt — summary stats
